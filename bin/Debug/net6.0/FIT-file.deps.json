@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FIT-file/1.0.0": {
+        "dependencies": {
+          "Dynastream.Fit.Portable": "21.115.0.0"
+        },
+        "runtime": {
+          "FIT-file.dll": {}
+        }
+      },
+      "Dynastream.Fit.Portable/21.115.0.0": {
+        "runtime": {
+          "Dynastream.Fit.Portable.dll": {
+            "assemblyVersion": "21.115.0.0",
+            "fileVersion": "21.115.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIT-file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dynastream.Fit.Portable/21.115.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
